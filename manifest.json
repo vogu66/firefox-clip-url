@@ -21,7 +21,7 @@
 	"page_action":
 	{
 		"default_icon": "icons/link-icon.svg",
-		"default_title": "Copy url - test",
+		"default_title": "Copy url",
 		"show_matches": ["*://*/*"]
 	},
 
